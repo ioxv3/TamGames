@@ -182,7 +182,7 @@ class App extends Component {
 			// 		</Routes>
 			// 		<div className='footer'>
 			// 			<span className='footer-text'>
-			// 				Brought to you by Caden Marinozzi
+			// 				Brought to you by Hamad alabdooly
 			// 			</span>
 			// 			<Link
 			// 				to='termsOfService'
@@ -195,7 +195,7 @@ class App extends Component {
 			// 				Privacy Policy
 			// 			</Link>
 			// 			<span className='footer-text'>
-			// 				@2023 Caden Marinozzi, TamGames
+			// 				@2023Hamad alabdooly, TamGames
 			// 			</span>
 			// 			<div className='footer-links'>
 			// 				<FontAwesomeIcon
@@ -203,7 +203,7 @@ class App extends Component {
 			// 					icon={faGithub}
 			// 					onClick={() => {
 			// 						window.location.replace(
-			// 							'https://github.com/nekumelon/TamGames'
+			// 							'https://github.com/ioxv3'
 			// 						);
 			// 					}}
 			// 				/>
